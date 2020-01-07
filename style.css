@@ -1,0 +1,24 @@
+/*
+Theme Name: philosophy
+Theme URI:
+Author: anis
+Author URI: https://www.theme.oncomart.com
+Description: Our First HyperMinimal Theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, education
+Text Domain: philosophy
+*/
+
+
+
+.header__logo h1{
+    margin:0px;
+    font-weight: bold;
+}
+
+.header__logo h1 a{
+    text-decoration: none;
+       color:#fff;
+}
